@@ -2,6 +2,7 @@
 Hi there, this is the repo of my files for pytorch learning and also my first attempt to use git and github. It corresponds to an introduction to pytorch in CV and NLP.
     
 Requirements:  
+Python 3.8    
 nltk                          3.6.2   
 pandas                        1.2.4   
 spacy                         3.1.1  
