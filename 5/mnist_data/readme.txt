@@ -1,0 +1,1 @@
+The code should be able to download MNIST data automatically.
